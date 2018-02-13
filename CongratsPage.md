@@ -1,2 +1,2 @@
 # MarkDownTutorial
-![Complete Tutorial](P:\ICS\MarkDownTutorial.PNG)
+![Complete Tutorial](https://github.com/nikdotexe/MarkDownTutorial/blob/master/MarkDownTutorial.PNG)
